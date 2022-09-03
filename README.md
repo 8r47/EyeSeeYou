@@ -13,3 +13,5 @@ Website: https://braydenp.carrd.co/
 # I will NOT be involved with any malicious use that YOU do with this tool.
 
 # Use this tool for educational purposes and have fun! :)
+
+# THERE WILL BE MORE COUNTRIES BEING ADDED SOON!
