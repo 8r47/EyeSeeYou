@@ -7,7 +7,7 @@ LinkedIn: https://www.linkedin.com/in/braydenparkhurst/
 
 Website: https://braydenp.carrd.co/
 
-![screenshot]([https://ibb.co/wQQLmQM))
+![screenshot](https://ibb.co/wQQLmQM)
 
 # DO NOT Use this tool for ANY illegal/malicious use.
 # I will NOT be involved with any malicious use that YOU do with this tool.
