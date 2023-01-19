@@ -7,7 +7,7 @@ LinkedIn: https://www.linkedin.com/in/braydenparkhurst/
 
 Website: https://braydenp.carrd.co/
 
-![screenshot](file:///home/brayden/Pictures/Screenshots/Screenshot%20from%202023-01-19%2023-58-38.png)
+![screenshot]([https://ibb.co/wQQLmQM))
 
 # DO NOT Use this tool for ANY illegal/malicious use.
 # I will NOT be involved with any malicious use that YOU do with this tool.
