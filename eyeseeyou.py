@@ -11,8 +11,7 @@ print(Fore.MAGENTA +"""
 """)
 print("""\033[1;37m
 ==============================================================================================
- \033[1;35m[#] \033[1;37mCREATOR : Brayden P             \033[1;35m[#] \033[1;37mGITHUB : @BraydenP07                          
-  \033[1;35m[#] \033[1;37mLINKEDIN : @braydenparkhurst            \033[1;35m[#] \033[1;37mWEBSITE : [IN DEVELOPMENT]                                                                                   
+ \033[1;35m[#] \033[1;37mGITHUB : @BraydenP07                     \033[1;35m[#] \033[1;37mWEBSITE : [IN DEVELOPMENT]                                                                                   
 ==============================================================================================
  \033[1;35m[1] \033[1;37mUnited States                              \033[1;35m[11] \033[1;37mChina                                   
  \033[1;35m[2] \033[1;37mUnited Kingdom                             \033[1;35m[12] \033[1;37mIsrael                                  
@@ -54,7 +53,7 @@ try:
     """)
     if num not in range(1, 21+1):
         raise IndexError
-
+ #API
     country = countries[num-1]
     res = requests.get(
         f"http://www.insecam.org/en/bycountry/{country}", headers=headers
